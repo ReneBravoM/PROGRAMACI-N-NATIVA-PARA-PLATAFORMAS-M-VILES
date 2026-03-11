@@ -1,0 +1,9 @@
+void main() {
+ // var myName = 'Rene';
+ // String myName = 'Rene';
+  late final myName;
+  
+  myName = 'Rene Bravo';
+  
+  print ('hola, ${myName.toUpperCase()}');
+}
